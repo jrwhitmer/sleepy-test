@@ -1,5 +1,5 @@
 if [ -z "$SLEEPY_DURATION" ]; then
-  SLEEPY_DURATION="60"
+  SLEEPY_DURATION="700"
 fi
 
 echo "Sleeping for $SLEEPY_DURATION seconds..."
